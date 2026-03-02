@@ -2,6 +2,19 @@
 
 This document explores the fundamental concepts behind the Moving Average (MA) estimator, comparing true underlying states with noisy sensor observations.
 
+## Visualizing the Process
+
+* **ex1: The Underlying Truth**
+![ex1](true_state.png)
+
+* **ex2: Truth vs. Measurement**
+![ex2](true_vs_noisy.png)
+
+* **ex3: The Filtered Output**
+![ex3](moving_average_est.png)
+
+---
+
 ## Core Concepts
 
 ### 1. What is the difference between true state and observation?
